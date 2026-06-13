@@ -3,6 +3,18 @@
 An open-source ASIC flow laboratory focused on learning and experimenting with
 LibreLane, OpenROAD, Yosys, and modern open silicon workflows.
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/en/)
+
+---
+
+## 🔗 Links
+
+| Language | GitHub Pages 🌐 | GitHub 💻 |
+|----------|----------------|-----------|
+| 🇺🇸 English | [![GitHub Pages EN](https://img.shields.io/badge/GitHub%20Pages-English-brightgreen?logo=github)](https://samizo-aitl.github.io/librelane-lab/) | [![GitHub Repo EN](https://img.shields.io/badge/GitHub-English-blue?logo=github)](https://github.com/Samizo-AITL/librelane-lab/tree/main) |
+
+---
+
 ## Overview
 
 This repository is intended as a practical laboratory for exploring the
